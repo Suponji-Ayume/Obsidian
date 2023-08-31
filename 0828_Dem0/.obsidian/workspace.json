@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Life/My Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Life/My Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Life/My Life.md"
+              }
             }
           }
         ],
@@ -146,10 +150,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4a1e8ca581486412",
+  "active": "34e72ca87e96871b",
   "lastOpenFiles": [
-    "Life/My Life.md",
     "Life/Test Auto Push & Pull.md",
+    "Life/My Life.md",
     "Learn/My Learn.md",
     "Work/工作计划.md",
     "Work/My Work.md",
