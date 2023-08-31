@@ -6,7 +6,6 @@
       {
         "id": "054eaa7be6c4054c",
         "type": "tabs",
-        "dimension": 61.60458452722063,
         "children": [
           {
             "id": "3f02b12fd7ed19de",
@@ -18,79 +17,27 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "8f5af3b6ca610902"
+            }
           }
         ]
       },
       {
-        "id": "2ab4f2a494850b84",
-        "type": "split",
-        "dimension": 38.39541547277937,
+        "id": "7826e301bf9116b4",
+        "type": "tabs",
         "children": [
           {
-            "id": "9042b79d1dd32342",
-            "type": "tabs",
-            "dimension": 42.888888888888886,
-            "children": [
-              {
-                "id": "ed98657eedf881a2",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Work/My Work.md"
-                  }
-                },
-                "group": "8f5af3b6ca610902"
+            "id": "dc003c95b574caf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn/My Learn.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "abfb065e27bd33cb",
-            "type": "tabs",
-            "dimension": 57.111111111111114,
-            "children": [
-              {
-                "id": "6e791fe3f4353344",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Work/My Work.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.7893690582501386,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "8f5af3b6ca610902"
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "665c9c69beccd349",
@@ -157,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/My Work.md",
+                "file": "Learn/My Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/My Work.md",
+                "file": "Learn/My Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,12 +143,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/My Work.md"
+                "file": "Learn/My Learn.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,13 +167,13 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3f02b12fd7ed19de",
+  "active": "dc003c95b574caf1",
   "lastOpenFiles": [
     "Life/My Life.md",
+    "Learn/My Learn.md",
     "Work/My Work.md",
     "Work/工作计划.md",
     "Life/Test Auto Push & Pull.md",
-    "Learn/My Learn.md",
     "Learn",
     "Work/未命名.md",
     "Life",
