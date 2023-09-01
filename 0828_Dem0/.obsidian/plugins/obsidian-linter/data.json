@@ -9,7 +9,7 @@
       "force-yaml-escape-keys": ""
     },
     "format-tags-in-yaml": {
-      "enabled": true
+      "enabled": false
     },
     "format-yaml-array": {
       "enabled": false,
@@ -21,8 +21,8 @@
       "force-multi-line-array-style": ""
     },
     "insert-yaml-attributes": {
-      "enabled": true,
-      "text-to-insert": "aliases: \ntags: \n{{date}}\n{{time}}"
+      "enabled": false,
+      "text-to-insert": "aliases: \ntags: "
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -40,7 +40,7 @@
       "yaml-sort-order-for-other-keys": "None"
     },
     "yaml-timestamp": {
-      "enabled": true,
+      "enabled": false,
       "date-created": true,
       "date-created-key": "date created",
       "force-retention-of-create-value": false,
@@ -248,7 +248,7 @@
   "customRegexes": [],
   "commonStyles": {
     "aliasArrayStyle": "single-line",
-    "tagArrayStyle": "single-line space delimited",
+    "tagArrayStyle": "single-line",
     "minimumNumberOfDollarSignsToBeAMathBlock": 2,
     "escapeCharacter": "\"",
     "removeUnnecessaryEscapeCharsForMultiLineArrays": false
