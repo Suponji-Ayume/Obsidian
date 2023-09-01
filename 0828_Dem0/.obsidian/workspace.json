@@ -166,11 +166,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +187,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "dc741f546073fd13",
+  "active": "d968f2a82faecc48",
   "lastOpenFiles": [
     "Learn/未命名.md",
     "Learn/My Learn.md",
