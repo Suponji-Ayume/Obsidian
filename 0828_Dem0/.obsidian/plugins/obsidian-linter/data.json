@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "aliases: \ntags: "
+      "text-to-insert": "aliases: \ntags: \n{{date}}\n{{time}}"
     },
     "move-tags-to-yaml": {
       "enabled": false,
