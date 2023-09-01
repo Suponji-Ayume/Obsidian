@@ -101,12 +101,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "665c9c69beccd349",
@@ -188,8 +188,9 @@
   },
   "active": "dc741f546073fd13",
   "lastOpenFiles": [
-    "Life/My Life.md",
+    "Learn/未命名.md",
     "Learn/My Learn.md",
+    "Life/My Life.md",
     "Work/My Work.md",
     "Work/工作计划.md",
     "Life/Test Auto Push & Pull.md",
