@@ -6,7 +6,6 @@
       {
         "id": "9900e8b16e59dd1d",
         "type": "tabs",
-        "dimension": 23.327759197324415,
         "children": [
           {
             "id": "120f3663a0ac6f21",
@@ -19,13 +18,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3dd7f47e9b88e65a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1、引论/2.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "8c87b8b50d83d5d9",
+        "id": "42b06f72c9255aef",
         "type": "tabs",
-        "dimension": 41.55518394648829,
         "children": [
           {
             "id": "8ff071997a4d1923",
@@ -37,77 +48,9 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "678513cf2e601b29"
+            }
           }
         ]
-      },
-      {
-        "id": "9dca212ccb8fd808",
-        "type": "split",
-        "dimension": 35.11705685618729,
-        "children": [
-          {
-            "id": "b3fc3fed8b3e6f4b",
-            "type": "tabs",
-            "dimension": 62.55555555555555,
-            "children": [
-              {
-                "id": "ffd44a9ef35bd6ac",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                },
-                "group": "678513cf2e601b29"
-              }
-            ]
-          },
-          {
-            "id": "f1c47a66b4be72e0",
-            "type": "tabs",
-            "dimension": 37.44444444444445,
-            "children": [
-              {
-                "id": "50df0166d5ef32fa",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "1、引论/2.1.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "678513cf2e601b29"
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -157,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "665c9c69beccd349",
@@ -174,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1、引论/2.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1、引论/2.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1、引论/2.1.md"
+              }
             }
           }
         ]
@@ -234,7 +180,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ffd44a9ef35bd6ac",
+  "active": "3dd7f47e9b88e65a",
   "lastOpenFiles": [
     "1、引论/2.1.md",
     "CONTENTS 目录.md",
