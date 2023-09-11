@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42973203a17f4bb2",
+        "id": "293c44dde923dc33",
         "type": "tabs",
         "children": [
           {
-            "id": "b8f987d6f087f251",
+            "id": "a2609f22a8dd0899",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -130,7 +130,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -141,6 +140,6 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b8f987d6f087f251",
+  "active": "a2609f22a8dd0899",
   "lastOpenFiles": []
 }
