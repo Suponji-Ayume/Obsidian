@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "b3fc3fed8b3e6f4b",
+        "id": "9900e8b16e59dd1d",
         "type": "tabs",
+        "dimension": 28.012048192771083,
         "children": [
           {
             "id": "120f3663a0ac6f21",
@@ -18,7 +19,14 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8c87b8b50d83d5d9",
+        "type": "tabs",
+        "dimension": 32.93172690763052,
+        "children": [
           {
             "id": "8ff071997a4d1923",
             "type": "leaf",
@@ -29,10 +37,31 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "678513cf2e601b29"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "b3fc3fed8b3e6f4b",
+        "type": "tabs",
+        "dimension": 39.0562248995984,
+        "children": [
+          {
+            "id": "ffd44a9ef35bd6ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1、引论/第一节.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "678513cf2e601b29"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
