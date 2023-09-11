@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b6322396b1281d4",
+        "id": "db93cb2676230853",
         "type": "tabs",
         "children": [
           {
-            "id": "64dc2a0f127a3bfa",
+            "id": "4fca5522df045a61",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,6 +138,8 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "64dc2a0f127a3bfa",
-  "lastOpenFiles": []
+  "active": "cf7d7902397264f4",
+  "lastOpenFiles": [
+    "未命名.canvas"
+  ]
 }
