@@ -1,0 +1,661 @@
+{
+  "workspaces": {
+    "DashBoard": {
+      "main": {
+        "id": "adf02b75f8eb8e78",
+        "type": "split",
+        "children": [
+          {
+            "id": "7631761f2ea37396",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dc741f546073fd13",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Learn/My Learn.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "054eaa7be6c4054c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3f02b12fd7ed19de",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Work/My Work.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "7826e301bf9116b4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dc003c95b574caf1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Life/My Life.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ce79eafc2209f81f",
+        "type": "split",
+        "children": [
+          {
+            "id": "c35ef7d7ab041960",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4a1e8ca581486412",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8f3734e7adffb474",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a746166f61ff96c9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "665c9c69beccd349",
+        "type": "split",
+        "children": [
+          {
+            "id": "7a2e2391f52a6093",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1bd4a4c5e3662830",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Life/My Life.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ee01e2a2030bb2ce",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Life/My Life.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d968f2a82faecc48",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "5e2bc63b5064fecf",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Life/My Life.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "markdown-importer:打开 Markdown 格式转换器": false
+        }
+      },
+      "active": "dc003c95b574caf1"
+    },
+    "WorkSpace": {
+      "main": {
+        "id": "adf02b75f8eb8e78",
+        "type": "split",
+        "children": [
+          {
+            "id": "054eaa7be6c4054c",
+            "type": "tabs",
+            "dimension": 61.60458452722063,
+            "children": [
+              {
+                "id": "3f02b12fd7ed19de",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Work/My Work.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "8f5af3b6ca610902"
+              }
+            ]
+          },
+          {
+            "id": "2ab4f2a494850b84",
+            "type": "split",
+            "dimension": 38.39541547277937,
+            "children": [
+              {
+                "id": "9042b79d1dd32342",
+                "type": "tabs",
+                "dimension": 42.888888888888886,
+                "children": [
+                  {
+                    "id": "ed98657eedf881a2",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "Work/My Work.md"
+                      }
+                    },
+                    "group": "8f5af3b6ca610902"
+                  }
+                ]
+              },
+              {
+                "id": "abfb065e27bd33cb",
+                "type": "tabs",
+                "dimension": 57.111111111111114,
+                "children": [
+                  {
+                    "id": "6e791fe3f4353344",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Work/My Work.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1.2583024633077535,
+                          "close": true
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ce79eafc2209f81f",
+        "type": "split",
+        "children": [
+          {
+            "id": "c35ef7d7ab041960",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4a1e8ca581486412",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8f3734e7adffb474",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a746166f61ff96c9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "665c9c69beccd349",
+        "type": "split",
+        "children": [
+          {
+            "id": "7a2e2391f52a6093",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1bd4a4c5e3662830",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Work/My Work.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ee01e2a2030bb2ce",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Work/My Work.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d968f2a82faecc48",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "5e2bc63b5064fecf",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Work/My Work.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "markdown-importer:打开 Markdown 格式转换器": false
+        }
+      },
+      "active": "3f02b12fd7ed19de"
+    },
+    "Notes": {
+      "main": {
+        "id": "adf02b75f8eb8e78",
+        "type": "split",
+        "children": [
+          {
+            "id": "9900e8b16e59dd1d",
+            "type": "tabs",
+            "dimension": 33.33333333333333,
+            "children": [
+              {
+                "id": "3dd7f47e9b88e65a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1、引论/2.1.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                },
+                "group": "952abb15ab03ea8a"
+              }
+            ]
+          },
+          {
+            "id": "46510967286df8a6",
+            "type": "tabs",
+            "dimension": 39.85663082437276,
+            "children": [
+              {
+                "id": "8ff071997a4d1923",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1、引论/2.1.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "952abb15ab03ea8a"
+              }
+            ]
+          },
+          {
+            "id": "b5a5bdc8210a3294",
+            "type": "split",
+            "dimension": 26.810035842293907,
+            "children": [
+              {
+                "id": "1165ff9929133331",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "570b96a46b7dc7b8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "1、引论/2.1.md"
+                      }
+                    },
+                    "group": "952abb15ab03ea8a"
+                  }
+                ]
+              },
+              {
+                "id": "37208212e99755a8",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "bd5e87176451a6de",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "1、引论/2.1.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1,
+                          "close": false
+                        }
+                      }
+                    },
+                    "group": "952abb15ab03ea8a"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ce79eafc2209f81f",
+        "type": "split",
+        "children": [
+          {
+            "id": "c35ef7d7ab041960",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4a1e8ca581486412",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8f3734e7adffb474",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a746166f61ff96c9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "665c9c69beccd349",
+        "type": "split",
+        "children": [
+          {
+            "id": "7a2e2391f52a6093",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1bd4a4c5e3662830",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "1、引论/2.1.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ee01e2a2030bb2ce",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "1、引论/2.1.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d968f2a82faecc48",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "5e2bc63b5064fecf",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1、引论/2.1.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "remotely-save:Remotely Save": false,
+          "graph:查看关系图谱": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "markdown-importer:打开 Markdown 格式转换器": false
+        }
+      },
+      "active": "8ff071997a4d1923"
+    }
+  },
+  "active": "Notes"
+}

@@ -6,7 +6,7 @@
       {
         "id": "9900e8b16e59dd1d",
         "type": "tabs",
-        "dimension": 49.74916387959866,
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "3dd7f47e9b88e65a",
@@ -26,7 +26,7 @@
       {
         "id": "46510967286df8a6",
         "type": "tabs",
-        "dimension": 23.411371237458194,
+        "dimension": 39.85663082437276,
         "children": [
           {
             "id": "8ff071997a4d1923",
@@ -35,7 +35,7 @@
               "type": "markdown",
               "state": {
                 "file": "CONTENTS 目录.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             },
@@ -46,7 +46,7 @@
       {
         "id": "b5a5bdc8210a3294",
         "type": "split",
-        "dimension": 26.839464882943144,
+        "dimension": 26.810035842293907,
         "children": [
           {
             "id": "1165ff9929133331",
@@ -127,7 +127,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -238,13 +238,13 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3dd7f47e9b88e65a",
+  "active": "bd5e87176451a6de",
   "lastOpenFiles": [
+    "CONTENTS 目录.md",
     "1、程序与数据/未命名 1.md",
     "附件/Files",
     "附件/Code",
     "1、程序与数据/未命名.md",
-    "CONTENTS 目录.md",
     "4、异常控制流",
     "3、分级存储器体系",
     "2、处理器体系结构与程序性能",

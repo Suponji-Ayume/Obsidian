@@ -1,35 +1,117 @@
 {
   "main": {
-    "id": "032c5332bbe29dc7",
+    "id": "adf02b75f8eb8e78",
     "type": "split",
     "children": [
       {
-        "id": "a369c2f34a50a7dc",
+        "id": "9900e8b16e59dd1d",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
-            "id": "694f807c6abab2f7",
+            "id": "3dd7f47e9b88e65a",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-            }
+            },
+            "group": "952abb15ab03ea8a"
           }
         ]
+      },
+      {
+        "id": "46510967286df8a6",
+        "type": "tabs",
+        "dimension": 39.85663082437276,
+        "children": [
+          {
+            "id": "8ff071997a4d1923",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "group": "952abb15ab03ea8a"
+          }
+        ]
+      },
+      {
+        "id": "b5a5bdc8210a3294",
+        "type": "split",
+        "dimension": 26.810035842293907,
+        "children": [
+          {
+            "id": "1165ff9929133331",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "570b96a46b7dc7b8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                },
+                "group": "952abb15ab03ea8a"
+              }
+            ]
+          },
+          {
+            "id": "37208212e99755a8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bd5e87176451a6de",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  }
+                },
+                "group": "952abb15ab03ea8a"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9cfbb524280f894e",
+    "id": "ce79eafc2209f81f",
     "type": "split",
     "children": [
       {
-        "id": "46273012f6c75daa",
+        "id": "c35ef7d7ab041960",
         "type": "tabs",
         "children": [
           {
-            "id": "a8ff075371fb5b7a",
+            "id": "4a1e8ca581486412",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +121,7 @@
             }
           },
           {
-            "id": "7d24fd10411634de",
+            "id": "8f3734e7adffb474",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +136,7 @@
             }
           },
           {
-            "id": "8ce778a030938a9e",
+            "id": "a746166f61ff96c9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,18 +147,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "b1ff94bcefd93586",
+    "id": "665c9c69beccd349",
     "type": "split",
     "children": [
       {
-        "id": "f3bf2c8d82e0a431",
+        "id": "7a2e2391f52a6093",
         "type": "tabs",
         "children": [
           {
-            "id": "992fb30a1e16243d",
+            "id": "1bd4a4c5e3662830",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +174,7 @@
             }
           },
           {
-            "id": "a18dbd42cfcc4d8e",
+            "id": "ee01e2a2030bb2ce",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +185,7 @@
             }
           },
           {
-            "id": "ac48cc22b7ebe745",
+            "id": "d968f2a82faecc48",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +196,7 @@
             }
           },
           {
-            "id": "b0c2a8b1210504e6",
+            "id": "5e2bc63b5064fecf",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -125,19 +207,54 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "switcher:打开快速切换": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "694f807c6abab2f7",
-  "lastOpenFiles": []
+  "active": "bd5e87176451a6de",
+  "lastOpenFiles": [
+    "CONTENTS 目录.md",
+    "附件",
+    "4、异常控制流",
+    "1、程序与数据",
+    "3、分级存储器体系",
+    "2、处理器体系结构与程序性能",
+    "1、程序与数据/未命名 1.md",
+    "附件/Files",
+    "附件/Code",
+    "1、程序与数据/未命名.md",
+    "1、程序与数据.md",
+    "3、分级存储器体系.md",
+    "2、处理器体系结构与程序性能.md",
+    "一、程序与数据.md",
+    "三、分级存储器体系.md",
+    "二、处理器体系结构与程序性能.md",
+    "1、程序与数据/1.1 bits.md",
+    "Life/My Life.md",
+    "2023-09-11.md",
+    "Work/营销方案.md",
+    "Work/工作计划.md",
+    "Work/工作细节.md",
+    "Work/工作总结.md",
+    "Work/My Work.md",
+    "Learn/My Learn.md",
+    "Work",
+    "Life",
+    "Learn",
+    "Learn/未命名.md",
+    "Life/Test Auto Push & Pull.md",
+    "Work/未命名.md"
+  ]
 }
