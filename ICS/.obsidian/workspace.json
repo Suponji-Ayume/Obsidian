@@ -99,7 +99,7 @@
                       "linkStrength": 1,
                       "linkDistance": 250,
                       "scale": 1,
-                      "close": true
+                      "close": false
                     }
                   }
                 },
@@ -238,7 +238,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "bd5e87176451a6de",
+  "active": "8ff071997a4d1923",
   "lastOpenFiles": [
     "CONTENTS 目录.md",
     "1、程序与数据/未命名 1.md",

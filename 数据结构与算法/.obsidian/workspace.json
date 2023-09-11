@@ -130,14 +130,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "7e6dbc0187120dc2",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "CONTENTS 目录.md",
+    "附件/Code",
+    "附件/Files",
+    "附件",
+    "4、异常控制流",
+    "1、程序与数据",
+    "3、分级存储器体系",
+    "2、处理器体系结构与程序性能"
+  ]
 }
