@@ -4,29 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "054eaa7be6c4054c",
+        "id": "b3fc3fed8b3e6f4b",
         "type": "tabs",
         "children": [
           {
-            "id": "3f02b12fd7ed19de",
+            "id": "120f3663a0ac6f21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "7826e301bf9116b4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc003c95b574caf1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-09-11.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-09-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-09-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-09-11.md"
+              }
             }
           }
         ],
@@ -156,8 +150,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "d968f2a82faecc48",
+  "active": "120f3663a0ac6f21",
   "lastOpenFiles": [
+    "2023-09-11.md",
+    "Work/营销方案.md",
+    "Work/工作计划.md",
     "Work/工作细节.md",
     "Work/工作总结.md",
     "Work/My Work.md",
@@ -167,9 +164,7 @@
     "Life",
     "Learn",
     "Learn/未命名.md",
-    "Work/工作计划.md",
     "Life/Test Auto Push & Pull.md",
-    "Work/未命名.md",
-    "Work/营销方案.md"
+    "Work/未命名.md"
   ]
 }
