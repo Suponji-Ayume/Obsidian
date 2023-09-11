@@ -35,7 +35,7 @@
               "type": "markdown",
               "state": {
                 "file": "CONTENTS 目录.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -127,7 +127,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -238,7 +238,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "4a1e8ca581486412",
+  "active": "8ff071997a4d1923",
   "lastOpenFiles": [
     "三、异常控制流",
     "分级存储器体系",
