@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CONTENTS 目录.md",
+                "file": "1、程序与数据/1.1 bits.md",
                 "mode": "preview",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CONTENTS 目录.md",
+                "file": "1、程序与数据/1.1 bits.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "CONTENTS 目录.md"
+                    "file": "1、程序与数据/1.1 bits.md"
                   }
                 },
                 "group": "952abb15ab03ea8a"
@@ -75,7 +75,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "CONTENTS 目录.md",
+                    "file": "1、程序与数据/1.1 bits.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CONTENTS 目录.md",
+                "file": "1、程序与数据/1.1 bits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CONTENTS 目录.md",
+                "file": "1、程序与数据/1.1 bits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CONTENTS 目录.md"
+                "file": "1、程序与数据/1.1 bits.md"
               }
             }
           }
@@ -238,10 +238,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "3dd7f47e9b88e65a",
+  "active": "8ff071997a4d1923",
   "lastOpenFiles": [
-    "1、程序与数据/1.1 bits.md",
     "CONTENTS 目录.md",
+    "1、程序与数据/1.1 bits.md",
     "Life/My Life.md",
     "2023-09-11.md",
     "Work/营销方案.md",
