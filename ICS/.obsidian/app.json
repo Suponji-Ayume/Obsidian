@@ -1,5 +1,12 @@
 {
-  "showLineNumber": true,
+  "attachmentFolderPath": "./附件",
   "newFileLocation": "current",
-  "attachmentFolderPath": "附件"
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
