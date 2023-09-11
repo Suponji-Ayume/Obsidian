@@ -4,21 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1d05bb8b77b2735f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2d15700dbbbf02b3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "8f70f96dfa51fbda",
+        "id": "b2d608322e5d3337",
         "type": "tabs",
         "children": [
           {
@@ -34,6 +20,90 @@
             }
           }
         ]
+      },
+      {
+        "id": "4c89a711d0dac037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a02ec1401128b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "dc744da58f30c450"
+          }
+        ]
+      },
+      {
+        "id": "33223e88b818f3c2",
+        "type": "split",
+        "children": [
+          {
+            "id": "a0dbfda5fc08014d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2a5fb9c3d8f97dab",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "未命名.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "dc744da58f30c450"
+              }
+            ]
+          },
+          {
+            "id": "87c1ac1e5383801c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fa8452fcba5d87df",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "未命名.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -83,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "efae9e89b3e945de",
@@ -133,18 +202,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "fa8452fcba5d87df",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "未命名.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -163,8 +223,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "033eb7de2b91b99a",
+  "active": "2a5fb9c3d8f97dab",
   "lastOpenFiles": [
+    "未命名 1.md",
     "未命名.md"
   ]
 }
