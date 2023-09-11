@@ -6,7 +6,7 @@
       {
         "id": "9900e8b16e59dd1d",
         "type": "tabs",
-        "dimension": 28.012048192771083,
+        "dimension": 26.839464882943144,
         "children": [
           {
             "id": "120f3663a0ac6f21",
@@ -25,7 +25,7 @@
       {
         "id": "8c87b8b50d83d5d9",
         "type": "tabs",
-        "dimension": 32.93172690763052,
+        "dimension": 38.04347826086957,
         "children": [
           {
             "id": "8ff071997a4d1923",
@@ -43,25 +43,74 @@
         ]
       },
       {
-        "id": "b3fc3fed8b3e6f4b",
-        "type": "tabs",
-        "dimension": 39.0562248995984,
+        "id": "9dca212ccb8fd808",
+        "type": "split",
+        "dimension": 35.11705685618729,
         "children": [
           {
-            "id": "ffd44a9ef35bd6ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1、引论/2.1.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+            "id": "b3fc3fed8b3e6f4b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ffd44a9ef35bd6ac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1、引论/2.1.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "678513cf2e601b29"
               }
-            },
-            "group": "678513cf2e601b29"
+            ]
+          },
+          {
+            "id": "f1c47a66b4be72e0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "50df0166d5ef32fa",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "1、引论/2.1.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "678513cf2e601b29"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -171,12 +220,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +240,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "8ff071997a4d1923",
+  "active": "50df0166d5ef32fa",
   "lastOpenFiles": [
     "CONTENTS 目录.md",
     "Life/My Life.md",
