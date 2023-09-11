@@ -127,7 +127,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -238,11 +238,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "8ff071997a4d1923",
+  "active": "4a1e8ca581486412",
   "lastOpenFiles": [
     "三、异常控制流",
     "分级存储器体系",
-    "二、处理器体系结构与程序性能",
+    "1、处理器体系结构与程序性能",
     "一、程序与数据",
     "1、程序与数据.md",
     "CONTENTS 目录.md",
