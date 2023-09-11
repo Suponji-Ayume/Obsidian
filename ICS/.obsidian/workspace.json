@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "c70c119d0ea13d00",
+    "id": "3cca261f1e24b147",
     "type": "split",
     "children": [
       {
-        "id": "c5fc243123667abe",
+        "id": "42973203a17f4bb2",
         "type": "tabs",
         "children": [
           {
-            "id": "af4a8acca9e3f879",
+            "id": "b8f987d6f087f251",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f0a1b73635deea4a",
+    "id": "bf34454ecc977895",
     "type": "split",
     "children": [
       {
-        "id": "074341356c1e1b67",
+        "id": "903560ed35e444ce",
         "type": "tabs",
         "children": [
           {
-            "id": "fea65417e3627ac5",
+            "id": "5fbeb3cf6e81e1f3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "e0e2dcc69b9336f7",
+            "id": "2fc7f36d72d4bff2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "e2fd03c133a50e36",
+            "id": "ae20b6426e2715b7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "01db621fe66d6307",
+    "id": "b541c7d825c2ddcf",
     "type": "split",
     "children": [
       {
-        "id": "a68aa81d0edcefa6",
+        "id": "7c315cc2faf25c82",
         "type": "tabs",
         "children": [
           {
-            "id": "77dbe8cfdf65b98c",
+            "id": "a2e0294c4df14c29",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "8a886dadbae0fda8",
+            "id": "d7af62fd78b7fb84",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "12b3d99b9f49a268",
+            "id": "3ea84489b6400b98",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,7 +114,7 @@
             }
           },
           {
-            "id": "39c658c3ae09c9a0",
+            "id": "59b2ddba998e94f5",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -130,26 +130,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "workspaces:管理工作区布局": false,
+      "remotely-save:Remotely Save": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "remotely-save:Remotely Save": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false
     }
   },
-  "active": "af4a8acca9e3f879",
-  "lastOpenFiles": [
-    "CONTENTS 目录.md",
-    "附件/Code",
-    "附件/Files",
-    "附件",
-    "4、异常控制流",
-    "1、程序与数据",
-    "3、分级存储器体系",
-    "2、处理器体系结构与程序性能"
-  ]
+  "active": "b8f987d6f087f251",
+  "lastOpenFiles": []
 }
