@@ -4,48 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4ef05fc6b224995f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "120f3663a0ac6f21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CONTENTS 目录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "9900e8b16e59dd1d",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "3dd7f47e9b88e65a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1、引论/2.1.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "952abb15ab03ea8a"
-          }
-        ]
-      },
-      {
-        "id": "42b06f72c9255aef",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8ff071997a4d1923",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,6 +22,93 @@
             "group": "952abb15ab03ea8a"
           }
         ]
+      },
+      {
+        "id": "46510967286df8a6",
+        "type": "tabs",
+        "dimension": 39.85663082437276,
+        "children": [
+          {
+            "id": "8ff071997a4d1923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1、引论/2.1.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "952abb15ab03ea8a"
+          }
+        ]
+      },
+      {
+        "id": "b5a5bdc8210a3294",
+        "type": "split",
+        "dimension": 26.810035842293907,
+        "children": [
+          {
+            "id": "1165ff9929133331",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "570b96a46b7dc7b8",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1、引论/2.1.md"
+                  }
+                },
+                "group": "952abb15ab03ea8a"
+              }
+            ]
+          },
+          {
+            "id": "37208212e99755a8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bd5e87176451a6de",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "1、引论/2.1.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "952abb15ab03ea8a"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -107,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "665c9c69beccd349",
@@ -187,10 +239,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "8ff071997a4d1923",
+  "active": "3dd7f47e9b88e65a",
   "lastOpenFiles": [
-    "1、引论/2.1.md",
     "CONTENTS 目录.md",
+    "1、引论/2.1.md",
     "Life/My Life.md",
     "2023-09-11.md",
     "Work/营销方案.md",
