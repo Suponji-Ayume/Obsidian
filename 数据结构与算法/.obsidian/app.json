@@ -1,12 +1,5 @@
 {
-  "attachmentFolderPath": "./附件",
-  "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "showFrontmatter": true,
-  "pdfExportSettings": {
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  }
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./附件"
 }

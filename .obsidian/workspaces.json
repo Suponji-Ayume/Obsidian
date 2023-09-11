@@ -19,10 +19,9 @@
                     "type": "leaf",
                     "state": {
                       "type": "outline",
-                      "state": {
-                        "file": "未命名.md"
-                      }
-                    }
+                      "state": {}
+                    },
+                    "group": "8f348ebebb1b9f17"
                   }
                 ]
               },
@@ -36,7 +35,6 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "未命名.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -80,13 +78,10 @@
                 "id": "033eb7de2b91b99a",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "未命名.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+                  "type": "empty",
+                  "state": {}
+                },
+                "group": "8f348ebebb1b9f17"
               }
             ]
           },
@@ -99,12 +94,8 @@
                 "id": "6a02ec1401128b4a",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "未命名.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 },
                 "group": "7bc77e0c35ef622b"
               }
@@ -175,7 +166,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "未命名.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -192,7 +182,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "未命名.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }

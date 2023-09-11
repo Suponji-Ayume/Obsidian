@@ -17,10 +17,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {
-                    "file": "未命名.md"
-                  }
-                }
+                  "state": {}
+                },
+                "group": "8f348ebebb1b9f17"
               }
             ]
           },
@@ -79,7 +78,8 @@
             "state": {
               "type": "empty",
               "state": {}
-            }
+            },
+            "group": "8f348ebebb1b9f17"
           }
         ]
       },
@@ -147,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "efae9e89b3e945de",
@@ -215,9 +216,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "7070a1cf60e21504",
+  "active": "033eb7de2b91b99a",
   "lastOpenFiles": [
-    "未命名 1.md",
-    "未命名.md"
+    "未命名.md",
+    "未命名 1.md"
   ]
 }
