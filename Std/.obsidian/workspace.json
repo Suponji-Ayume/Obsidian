@@ -6,6 +6,7 @@
       {
         "id": "b2d608322e5d3337",
         "type": "tabs",
+        "dimension": 48.00716524854457,
         "children": [
           {
             "id": "033eb7de2b91b99a",
@@ -24,6 +25,7 @@
       {
         "id": "4c89a711d0dac037",
         "type": "tabs",
+        "dimension": 24.944021495745638,
         "children": [
           {
             "id": "6a02ec1401128b4a",
@@ -41,11 +43,28 @@
         ]
       },
       {
-        "id": "33223e88b818f3c2",
+        "id": "6331416751ca2a49",
         "type": "split",
+        "dimension": 27.048813255709806,
         "children": [
           {
-            "id": "a0dbfda5fc08014d",
+            "id": "5cfe4403b7d33491",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fa8452fcba5d87df",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "未命名.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "3947af68ceffc5b9",
             "type": "tabs",
             "children": [
               {
@@ -78,27 +97,11 @@
                       "linkStrength": 1,
                       "linkDistance": 250,
                       "scale": 1,
-                      "close": false
+                      "close": true
                     }
                   }
                 },
                 "group": "dc744da58f30c450"
-              }
-            ]
-          },
-          {
-            "id": "87c1ac1e5383801c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fa8452fcba5d87df",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "未命名.md"
-                  }
-                }
               }
             ]
           }
@@ -153,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "efae9e89b3e945de",
@@ -223,7 +226,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "2a5fb9c3d8f97dab",
+  "active": "033eb7de2b91b99a",
   "lastOpenFiles": [
     "未命名 1.md",
     "未命名.md"
