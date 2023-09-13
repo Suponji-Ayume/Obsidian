@@ -194,6 +194,16 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "2ca9fd10eb5d9ac5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 2
