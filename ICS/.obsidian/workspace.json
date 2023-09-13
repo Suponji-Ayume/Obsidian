@@ -18,10 +18,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "CONTENTS 目录.md"
+                    "file": "1、程序与数据/二进制.md"
                   }
                 },
-                "group": "8f348ebebb1b9f17"
+                "group": "e432ba4869481e3e"
               }
             ]
           },
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "CONTENTS 目录.md",
+                    "file": "1、程序与数据/二进制.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -62,8 +62,7 @@
                       "close": true
                     }
                   }
-                },
-                "group": "7bc77e0c35ef622b"
+                }
               }
             ]
           }
@@ -81,12 +80,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CONTENTS 目录.md",
+                "file": "1、程序与数据/二进制.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "8f348ebebb1b9f17"
+            "group": "e432ba4869481e3e"
           }
         ]
       },
@@ -101,12 +100,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CONTENTS 目录.md",
+                "file": "1、程序与数据/二进制.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "7bc77e0c35ef622b"
+            "group": "e432ba4869481e3e"
           }
         ]
       }
@@ -158,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "efae9e89b3e945de",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CONTENTS 目录.md",
+                "file": "1、程序与数据/二进制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CONTENTS 目录.md",
+                "file": "1、程序与数据/二进制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,16 +205,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "37d18f1f316b9bf0",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
               }
             }
           }
@@ -240,9 +230,10 @@
   },
   "active": "033eb7de2b91b99a",
   "lastOpenFiles": [
-    "便计量.md",
     "CONTENTS 目录.md",
-    "未命名.md",
+    "1、程序与数据/二进制.md",
+    "4、异常控制流/阿撒发送到发.md",
+    "便计量.md",
     "未命名 1.md"
   ]
 }
