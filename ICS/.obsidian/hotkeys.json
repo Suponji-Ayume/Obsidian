@@ -1,18 +1,18 @@
 {
-  "highlightr-plugin:Yellow": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Y"
-    }
-  ],
   "highlightr-plugin:unhighlight": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "R"
+    }
+  ],
+  "highlightr-plugin:Precautions": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Y"
     }
   ]
 }
