@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "1、信息的表示与处理/补充：布尔代数.md"
+                    "file": "1、信息的表示与处理/1.1 信息存储.md"
                   }
                 },
                 "group": "e432ba4869481e3e"
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "1、信息的表示与处理/补充：布尔代数.md",
+                    "file": "1、信息的表示与处理/1.1 信息存储.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1、信息的表示与处理/补充：布尔代数.md",
+                "file": "1、信息的表示与处理/1.1 信息存储.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1、信息的表示与处理/补充：布尔代数.md",
+                "file": "1、信息的表示与处理/1.1 信息存储.md",
                 "mode": "preview",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1、信息的表示与处理/补充：布尔代数.md",
+                "file": "1、信息的表示与处理/1.1 信息存储.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1、信息的表示与处理/补充：布尔代数.md",
+                "file": "1、信息的表示与处理/1.1 信息存储.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,10 +239,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "033eb7de2b91b99a",
+  "active": "6a02ec1401128b4a",
   "lastOpenFiles": [
-    "1、信息的表示与处理/1.1 信息存储.md",
     "1、信息的表示与处理/补充：布尔代数.md",
+    "1、信息的表示与处理/1.1 信息存储.md",
     "1、信息的表示与处理/附件/Pasted image 20230915170922.png",
     "1、信息的表示与处理/附件/Pasted image 20230915152154.png",
     "1、信息的表示与处理/附件/IMG_0011.heic",
