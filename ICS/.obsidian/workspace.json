@@ -6,7 +6,7 @@
       {
         "id": "d58b294a77b076da",
         "type": "split",
-        "dimension": 23.745819397993312,
+        "dimension": 20.735785953177256,
         "children": [
           {
             "id": "93af944c77221d46",
@@ -72,7 +72,7 @@
       {
         "id": "770eb08151e2a122",
         "type": "tabs",
-        "dimension": 38.7123745819398,
+        "dimension": 41.72240802675585,
         "children": [
           {
             "id": "033eb7de2b91b99a",
@@ -101,7 +101,7 @@
               "type": "markdown",
               "state": {
                 "file": "1、信息的表示与处理/1.1 信息存储.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "efae9e89b3e945de",
@@ -237,7 +238,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "033eb7de2b91b99a",
+  "active": "6a02ec1401128b4a",
   "lastOpenFiles": [
     "1、信息的表示与处理/附件/Pasted image 20230915170922.png",
     "1、信息的表示与处理/附件/Pasted image 20230915152154.png",
