@@ -1,8 +1,8 @@
 [
   "obsidian-linter",
   "note-refactor-obsidian",
-  "obsidian-git",
   "cm-editor-syntax-highlight-obsidian",
   "highlightr-plugin",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-git"
 ]
