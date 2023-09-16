@@ -6,7 +6,7 @@
       {
         "id": "d58b294a77b076da",
         "type": "split",
-        "dimension": 20.7168458781362,
+        "dimension": 14.326647564469914,
         "children": [
           {
             "id": "93af944c77221d46",
@@ -72,7 +72,7 @@
       {
         "id": "770eb08151e2a122",
         "type": "tabs",
-        "dimension": 35.770609318996414,
+        "dimension": 55.30085959885387,
         "children": [
           {
             "id": "033eb7de2b91b99a",
@@ -92,7 +92,7 @@
       {
         "id": "4c89a711d0dac037",
         "type": "tabs",
-        "dimension": 43.51254480286738,
+        "dimension": 30.37249283667622,
         "children": [
           {
             "id": "6a02ec1401128b4a",
@@ -239,7 +239,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "033eb7de2b91b99a",
+  "active": "6a02ec1401128b4a",
   "lastOpenFiles": [
     "1、信息的表示与处理/1.1 信息存储.md",
     "1、信息的表示与处理/补充：布尔代数.md",
