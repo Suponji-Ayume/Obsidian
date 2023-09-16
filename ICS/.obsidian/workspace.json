@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "1、信息的表示与处理/1.1 信息存储.md",
+                    "file": "1、信息的表示与处理/布尔代数.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -86,8 +86,21 @@
               }
             },
             "group": "e432ba4869481e3e"
+          },
+          {
+            "id": "2061f8931ad39db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1、信息的表示与处理/布尔代数.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4c89a711d0dac037",
@@ -173,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1、信息的表示与处理/1.1 信息存储.md",
+                "file": "1、信息的表示与处理/布尔代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1、信息的表示与处理/1.1 信息存储.md",
+                "file": "1、信息的表示与处理/布尔代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,11 +251,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "033eb7de2b91b99a",
+  "active": "2061f8931ad39db4",
   "lastOpenFiles": [
+    "1、信息的表示与处理/1.1 信息存储.md",
+    "1、信息的表示与处理/布尔代数.md",
     "1、信息的表示与处理/附件/Pasted image 20230915170922.png",
     "1、信息的表示与处理/附件/Pasted image 20230915152154.png",
-    "1、信息的表示与处理/1.1 信息存储.md",
     "1、信息的表示与处理/附件/IMG_0011.heic",
     "1、信息的表示与处理/附件",
     "CONTENTS 目录.md",
