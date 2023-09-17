@@ -6,7 +6,7 @@
       {
         "id": "d58b294a77b076da",
         "type": "split",
-        "dimension": 14.339019189765459,
+        "dimension": 14.326647564469914,
         "children": [
           {
             "id": "93af944c77221d46",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "1、信息的表示与处理/1.2 整数表示.md"
+                    "file": "1、信息的表示与处理/1.3 整数运算.md"
                   }
                 },
                 "group": "e432ba4869481e3e"
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "1、信息的表示与处理/1.2 整数表示.md",
+                    "file": "1、信息的表示与处理/1.3 整数运算.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -72,7 +72,7 @@
       {
         "id": "770eb08151e2a122",
         "type": "tabs",
-        "dimension": 40.298507462686565,
+        "dimension": 40.32951289398281,
         "children": [
           {
             "id": "033eb7de2b91b99a",
@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1、信息的表示与处理/1.2 整数表示.md",
+                "file": "1、信息的表示与处理/1.3 整数运算.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
       {
         "id": "4c89a711d0dac037",
         "type": "tabs",
-        "dimension": 45.362473347547976,
+        "dimension": 45.343839541547275,
         "children": [
           {
             "id": "6a02ec1401128b4a",
@@ -100,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1、信息的表示与处理/1.2 整数表示.md",
+                "file": "1、信息的表示与处理/1.3 整数运算.md",
                 "mode": "preview",
                 "source": false
               }
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "efae9e89b3e945de",
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1、信息的表示与处理/1.2 整数表示.md",
+                "file": "1、信息的表示与处理/1.3 整数运算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1、信息的表示与处理/1.2 整数表示.md",
+                "file": "1、信息的表示与处理/1.3 整数运算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,9 +241,10 @@
   },
   "active": "033eb7de2b91b99a",
   "lastOpenFiles": [
+    "1、信息的表示与处理/1.2 整数表示.md",
+    "1、信息的表示与处理/1.3 整数运算.md",
     "CONTENTS 目录.md",
     "1、信息的表示与处理/1.1 信息存储.md",
-    "1、信息的表示与处理/1.2 整数表示.md",
     "1、信息的表示与处理/补充：布尔代数.md",
     "1、信息的表示与处理/附件/Pasted image 20230915170922.png",
     "1、信息的表示与处理/附件/Pasted image 20230915152154.png",
