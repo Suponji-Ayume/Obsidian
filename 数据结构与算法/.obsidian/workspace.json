@@ -80,8 +80,21 @@
               "state": {}
             },
             "group": "8f348ebebb1b9f17"
+          },
+          {
+            "id": "5403b35a8bd5c7f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 算法复杂度.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4c89a711d0dac037",
@@ -163,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. 算法复杂度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,6 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. 算法复杂度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,9 +240,9 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "033eb7de2b91b99a",
+  "active": "5403b35a8bd5c7f0",
   "lastOpenFiles": [
-    "未命名.md",
+    "1. 算法复杂度.md",
     "未命名 1.md"
   ]
 }
