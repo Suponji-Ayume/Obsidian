@@ -18,7 +18,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "1、信息的表示与处理/1.3 整数运算.md"
+                    "file": "1、信息的表示与处理/补充：布尔代数.md"
                   }
                 },
                 "group": "8f348ebebb1b9f17"
@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1、信息的表示与处理/1.3 整数运算.md",
+                "file": "1、信息的表示与处理/补充：布尔代数.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "efae9e89b3e945de",
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1、信息的表示与处理/1.3 整数运算.md",
+                "file": "1、信息的表示与处理/补充：布尔代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1、信息的表示与处理/1.3 整数运算.md",
+                "file": "1、信息的表示与处理/补充：布尔代数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,6 +200,16 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c4d8a4f52dc570e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -227,8 +236,8 @@
   },
   "active": "033eb7de2b91b99a",
   "lastOpenFiles": [
-    "1、信息的表示与处理/1.3 整数运算.md",
     "1、信息的表示与处理/1.2 整数表示.md",
+    "1、信息的表示与处理/1.3 整数运算.md",
     "1、信息的表示与处理/1.1 信息存储.md",
     "CONTENTS 目录.md",
     "1、信息的表示与处理/补充：布尔代数.md",
