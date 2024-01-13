@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93a55179c72e1ecc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,6 +148,16 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "304159768cc9db7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "讨论提纲.md"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -159,7 +179,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ab91afd496430e05",
+  "active": "93a55179c72e1ecc",
   "lastOpenFiles": [
     "讨论提纲.md",
     "1. 算法复杂度.md",
